@@ -1,7 +1,3 @@
-# I declare that my work contains no examples of misconduct, such as plagiarism, or collusion. 
-# Any code taken from other sources is referenced within my code solution. 
-# Student ID: w1998804 , IIT ID:20220195 
-# Date: 18/04/2022
 
 #Process of credit input validator
 def validator(types):
