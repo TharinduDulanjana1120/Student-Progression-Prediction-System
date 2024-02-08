@@ -1,0 +1,9 @@
+The program should allow students to predict their progression outcome at the end of eachacademic year. The program should prompt for the number of credits at pass, defer and failand then display the appropriate progression outcome for an individual student (i.e.,progress, trailing, module retriever or exclude)
+
+The project involves the development of a software module with various components. In Part 1, the outcomes of the module are predicted accurately, including progress, module trailer, retriever, and exclusion conditions. A comprehensive test plan with test cases is designed to validate the system, covering aspects like identifying wrong data types, crediting outside specified ranges, and ensuring correct credit totals.
+
+Part 1 also includes a loop structure for predicting progression outcomes for multiple inputs, with the option for the user to exit by entering 'q.' Additionally, a histogram is implemented, displaying correct outcomes and ensuring accuracy in category and overall totals.
+
+Moving on to Part 2, input data is stored in a list, and the corresponding output is retrieved from the list. Part 3 involves working with text files, saving input data to a text file, and retrieving output from the same. In Part 4, a dictionary is utilized to store input data and retrieve the corresponding output.
+
+Overall, the project showcases a comprehensive implementation of various functionalities, including outcome prediction, validation, loop structures, histograms, and data storage/retrieval using lists, text files, and dictionaries.
